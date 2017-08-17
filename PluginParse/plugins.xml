@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<plugins>
+   <plugin operation="ADD" handler="AddOperation"/>
+   <plugin operation="SUB" handler="SubOperation"/>
+   <plugin operation="MUL" handler="MulOperation"/>
+   <plugin operation="DIV" handler="DivOperation"/>
+   <plugin operation="EXP" handler="ExpOeration"/>
+</plugins>
